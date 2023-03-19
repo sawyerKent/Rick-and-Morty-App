@@ -1,0 +1,1 @@
+C:\Rick-And-Morty-v2-feature-sawyer-app\buildSrc\build\classes\kotlin\main\Deps.class;C:\Rick-And-Morty-v2-feature-sawyer-app\buildSrc\build\classes\kotlin\main\Versions.class
